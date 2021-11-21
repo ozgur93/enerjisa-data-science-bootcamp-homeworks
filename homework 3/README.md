@@ -1,4 +1,4 @@
-## Enerjisa Veri Bilimi ve Analitiği Bootcamp Bireysel Ödev 2 (Hafta 5)
+## Enerjisa Veri Bilimi ve Analitiği Bootcamp Ödev
 **Sorular**
 - 1-) One hot encoding modelin görmediği veriye nasıl uygulanır?
 - 2-) Labelencoding'de ilgili kolon için ölçeklendirme nasıl yapılır? (Verinin doğru etkisiyle sayısal olarak dönüştürülmesi)
